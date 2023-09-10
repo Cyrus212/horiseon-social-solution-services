@@ -1,4 +1,4 @@
-# <Horiseon-Social-Solution-Services>
+# Horiseon-Social-Solution-Services
 
 ## Description
 
