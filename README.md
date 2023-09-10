@@ -1,1 +1,11 @@
-# horiseon-social-solution-services
+# <Horiseon-Social-Solution-Services>
+
+## Description
+
+This project shows how a Web-Application should be structured. 
+
+The Application includes semantic HTML elements, alt image attributes, and a descriptive titel.
+
+Developers can view that heading attributes fall in sequential order as well as the styling follows a logical structure and positioning.
+
+Building this project help me learn how Web-Applications are structured and how I can make my Web-Applications more accessible .
